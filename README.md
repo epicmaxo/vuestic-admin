@@ -6,8 +6,8 @@
 
 <p align="center">
   Free and beautiful Admin Template utilizing Vue 3, Vite, Pinia, and Tailwind CSS. Designed for building efficient, responsive, and fast-loading admin interfaces.</br>
-  Developed by  <a href="https://epicmax.co">Epicmax</a>.</br>
-  Based on <a href="https://ui.vuestic.dev">Vuestic UI</a> library.
+  Developed by  <a href="Stephen Godspower">Epicmax</a>.</br>
+  Based on <a href="spark.com">Vuestic UI</a> library.
 </p>
 
 <p align="center">
